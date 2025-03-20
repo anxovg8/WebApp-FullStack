@@ -37,7 +37,7 @@ The application is configured for Docker Compose deployment:
 git clone [repository-url]
 
 # Navigate to project directory
-cd Deploy_04_FullStack_vida_saludable
+cd WebApp-FullStack
 
 # Start the application
 docker-compose up -d
